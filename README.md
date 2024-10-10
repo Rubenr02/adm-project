@@ -33,4 +33,6 @@ Greecebnb platform.
 Greecebnb ensures flexibility by providing trip cancellation alternatives and allowing hosts to properly manage their listings. Users can cancel their listings as needed. Hosts, 
 on the other hand, have the ability to delete their rental listings, ensuring that users receive accurate and up-to-date property availability information.
 
+![image](https://github.com/user-attachments/assets/74e00531-a577-45d0-8c13-1797da5d1768)
+
 
