@@ -3,6 +3,10 @@
 
 The Greecebnb project is an elaborate web application designed for house booking and renting, offering an innovative platform to people looking for temporary housing. 
 Greecebnb, which focuses on user interaction and convenience, provides a variety of options to improve the rental experience.
+This project was developed in an Erasmus program for the University of Thessaly - Electrical and Computer Engineering Department.
+
+![image](https://github.com/user-attachments/assets/ce235e00-03a9-43e3-8b17-c44697220d9d)
+
 
 # Project Overview
 Greecebnb is aimed to simplify the process of identifying and booking rental houses, responding to the various demands of consumers seeking temporary housing options. 
